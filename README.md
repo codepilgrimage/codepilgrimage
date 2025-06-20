@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner_2.png" alt="Code Pilgrimage Banner" style="width:75%; border-radius:10px;" />
+  <img src="assets/banner_2.png" alt="Code Pilgrimage Banner" style="width:400%; border-radius:10px;" />
 </p>
 
 <!-- <p align="center">
