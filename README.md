@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👣 Code Pilgrimage
 
-<!--
-**codepilgrimage/codepilgrimage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Welcome, traveler! I'm on a lifelong pilgrimage through the world of systems, firmware, and secure code.
 
-Here are some ideas to get you started:
+## 🛠️ What I Work On
+- 🧩 **AUTOSAR Classic** — Diagnostics (DCM), COM stack
+- ⚙️ **Embedded Systems** — Real-time, MCU-focused development
+- 🦀 **Rust & C++** — Safe, modern, systems-level programming
+- 🔐 **Cryptography** — Learning through practice and curiosity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 My Current Journey
+- ⛰️ **C++ Mastery** for Adaptive AUTOSAR & HPC-based platforms  
+- 🌲 Building a Linux-based client-server project using **vsomeip**  
+- 🔍 Deep diving into **Cybersecurity & ISO 26262**
+
+## 📚 Featured Pilgrimage Logs (Blog/Notes)
+> Hosted on [codepilgrimage.github.io](https://codepilgrimage.github.io)
+
+## 🌱 In Progress
+- 🧠 Learning Plan: Rust, C++, Crypto, Linux
+- 🐧 QEMU-based Linux workspace for embedded dev
+- 📖 Notes from *Serious Cryptography*, *Modern C++*, and more
+
+## ✨ Connect
+- 🔗 [Email](blog.rakuram@gmail.com)
+- 🗃️ [GitHub Repos](https://github.com/codepilgrimage)
+
+---
+
+*“Not all those who wander are lost.”*  
+Welcome to my code pilgrimage.
