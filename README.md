@@ -3,9 +3,9 @@
   <img src="assets/banner.png" alt="Code Pilgrimage Banner" style="width:100%; border-radius:10px;" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/profile.png" alt="Profile Picture" width="120" style="border-radius: 50%;" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Welcome to Code Pilgrimage 👣</h1>
 
